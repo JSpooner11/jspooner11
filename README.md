@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Hello there! I'm Jacob, a passionate Data Engineer with a strong belief in the power of data to transform businesses and drive innovation. I thrive on designing and building data pipelines that are not only efficient but also scalable and maintainable.🌐 Let's connect, share ideas, and make data work for us! Feel free to explore my repositories, and if you have any data-related questions or project ideas, don't hesitate to reach out. <br><br>Happy coding! 🚀
+👋 Hello there! I'm Jacob, a passionate Data Engineer with a strong belief in the power of data to transform businesses and drive innovation. I thrive on designing and building data pipelines that are not only efficient but also scalable and maintainable.
+
+🌐 Let's connect, share ideas, and make data work for us! Feel free to explore my repositories, and if you have any data-related questions or project ideas, don't hesitate to reach out. <br><br>Happy coding! 🚀
 
 
 # 💻 Tech Stack:
